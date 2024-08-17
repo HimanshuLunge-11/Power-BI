@@ -34,4 +34,4 @@ In this project, I conducted an in-depth analysis of an adventure sports company
 
 ## Resume
 
-[Download Resume](resume-link.pdf)
+[Download Resume](https://drive.google.com/file/d/17aWzDvphzSuQnFukY9UvAhbHyPqIL5ry/view?usp=drive_link)
