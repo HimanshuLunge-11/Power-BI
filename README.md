@@ -25,7 +25,7 @@ This project involved a comprehensive analysis of Formula 1, focusing on race an
 
 - **Interactive Visualizations:** Creating interactive dashboards that allow users to explore the data and uncover insights on their own.
 
-[Project Link](http://project-link1.com)
+[Project Link]([http://project-link1.com](https://drive.google.com/file/d/1s5JISuVd6Ts80fms22K0OmWwYxkgVMO-/view?usp=sharing))
 
 ### Project 2: Comprehensive Analysis of an Adventure Sports Company
 
@@ -43,7 +43,22 @@ In this project, I conducted an in-depth analysis of an adventure sports company
 - **Interactive Dashboards:** Utilizing multiple charts and interactive elements to provide a dynamic and user-friendly way to explore the data.
 ![Screenshot 2024-08-18 195056](https://github.com/user-attachments/assets/4668db0f-d3e9-4eea-94c1-e202efefbd45)
 
-[Project Link](http://project-link2.com)
+[Project Link]([http://project-link2.com](https://drive.google.com/file/d/1oUoq9YYkjxp9DNeu1Q86SAChCOwUYDud/view?usp=sharing))
+
+### Project 3: Bank Loan Analysis
+![Screenshot 2024-08-27 121912](https://github.com/user-attachments/assets/bef2efbf-88db-4a50-a00d-663905af7994)
+
+
+
+- **Risk Identification:** Highlighted potential risk factors by examining trends in loan performance and borrower behavior.
+
+- **Strategic Insights:** Provided actionable insights to improve lending strategies based on data-driven analysis.
+
+- **Loan Performance Comparison:** Analyzed good vs. bad loans month-to-date, focusing on key performance metrics like default rates and repayment patterns.
+
+
+[Project Link](https://drive.google.com/file/d/1lYFpIAYTG8b8FzOT1J84_vZayJ5b_sFe/view?usp=sharing)
+
 
 ## Resume
 
