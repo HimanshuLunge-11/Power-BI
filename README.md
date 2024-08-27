@@ -8,7 +8,9 @@ I am an Associate Program Manager with over 2.5 years of experience in data and 
 
 ### Project 1: Detailed Analysis of Formula 1 Races and Drivers
 
-![Project Snapshot 1](placeholder1.jpg) <!-- Placeholder for image -->
+(![Screenshot 2024-08-27 123241](https://github.com/user-attachments/assets/38bc5f13-c45d-4372-9248-431a3403c555)
+) <!-- Placeholder for image -->
+
 
 This project involved a comprehensive analysis of Formula 1, focusing on race and driver performance throughout the sport's history. The analysis included:
 
