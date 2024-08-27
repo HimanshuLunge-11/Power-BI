@@ -8,8 +8,8 @@ I am an Associate Program Manager with over 2.5 years of experience in data and 
 
 ### Project 1: Detailed Analysis of Formula 1 Races and Drivers
 
-(![Screenshot 2024-08-27 123241](https://github.com/user-attachments/assets/38bc5f13-c45d-4372-9248-431a3403c555)
-) <!-- Placeholder for image -->
+![Screenshot 2024-08-27 123241](https://github.com/user-attachments/assets/38bc5f13-c45d-4372-9248-431a3403c555)
+<!-- Placeholder for image -->
 
 
 This project involved a comprehensive analysis of Formula 1, focusing on race and driver performance throughout the sport's history. The analysis included:
@@ -25,7 +25,7 @@ This project involved a comprehensive analysis of Formula 1, focusing on race an
 
 - **Interactive Visualizations:** Creating interactive dashboards that allow users to explore the data and uncover insights on their own.
 
-[Project Link]([http://project-link1.com](https://drive.google.com/file/d/1s5JISuVd6Ts80fms22K0OmWwYxkgVMO-/view?usp=sharing))
+[Project Link] [ Analysis of Formula 1 Races and Drivers](https://drive.google.com/file/d/1s5JISuVd6Ts80fms22K0OmWwYxkgVMO-/view?usp=sharing)
 
 ### Project 2: Comprehensive Analysis of an Adventure Sports Company
 
@@ -43,7 +43,7 @@ In this project, I conducted an in-depth analysis of an adventure sports company
 - **Interactive Dashboards:** Utilizing multiple charts and interactive elements to provide a dynamic and user-friendly way to explore the data.
 ![Screenshot 2024-08-18 195056](https://github.com/user-attachments/assets/4668db0f-d3e9-4eea-94c1-e202efefbd45)
 
-[Project Link]([http://project-link2.com](https://drive.google.com/file/d/1oUoq9YYkjxp9DNeu1Q86SAChCOwUYDud/view?usp=sharing))
+[Project Link] : [Analysis of an Adventure Sports Company](https://drive.google.com/file/d/1oUoq9YYkjxp9DNeu1Q86SAChCOwUYDud/view?usp=sharing)
 
 ### Project 3: Bank Loan Analysis
 ![Screenshot 2024-08-27 121912](https://github.com/user-attachments/assets/bef2efbf-88db-4a50-a00d-663905af7994)
@@ -57,7 +57,7 @@ In this project, I conducted an in-depth analysis of an adventure sports company
 - **Loan Performance Comparison:** Analyzed good vs. bad loans month-to-date, focusing on key performance metrics like default rates and repayment patterns.
 
 
-[Project Link](https://drive.google.com/file/d/1lYFpIAYTG8b8FzOT1J84_vZayJ5b_sFe/view?usp=sharing)
+[Project Link]  [Bank Loan Analysis] (https://drive.google.com/file/d/1lYFpIAYTG8b8FzOT1J84_vZayJ5b_sFe/view?usp=sharing)
 
 
 ## Resume
